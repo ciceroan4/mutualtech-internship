@@ -1,7 +1,7 @@
 # Desafio estágio MutualTech
-## Primeiramente, obrigado pelo seu interesse em trabalhar na Mutualtech! Abaixo você encontrará todos as informações necessárias para iniciar o seu teste.
+### Primeiramente, obrigado pelo seu interesse em trabalhar na Mutualtech! Abaixo você encontrará todos as informações necessárias para iniciar o seu teste.
 # Avisos antes de começar
-## Utilize a mesma estrutura deste repositório na resolução das questões, onde cada questão tem seu arquivo Readme e os arquivos .py necessários
+### Utilize a mesma estrutura deste repositório na resolução das questões, onde cada questão tem seu arquivo Readme e os arquivos .py necessários
 
 Questões
 =================
